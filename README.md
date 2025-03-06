@@ -1,6 +1,5 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JC-julio&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JC-julio&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JC-julio&show_icons=true&count_private=true)
 
 <!--
 **JC-julio/JC-julio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
