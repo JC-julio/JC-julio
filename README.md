@@ -22,10 +22,16 @@
 
 ## ⚡ Streak & Most Used Languages
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=JC-julio&theme=transparent" alt="GitHub streak" />
-  <img height="180em" src="https://raw.githubusercontent.com/JC-julio/JC-julio/generated/profile/top-langs.svg" alt="Top languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://streak-stats.demolab.com?user=JC-julio&theme=transparent" alt="GitHub streak" />
+    </td>
+    <td align="center">
+      <img height="180em" src="https://raw.githubusercontent.com/JC-julio/JC-julio/generated/profile/top-langs.svg" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
