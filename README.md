@@ -10,8 +10,11 @@
   </a>
 </p>
 
-💻 Linguagens e tecnologias
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,react,django,linux,fastapi,postgres,mysql,git,github,vscode" /> </p>
+## 🥧 Linguagens mais usadas
+
+<p align="center">
+  <img src="./assets/languages-pie.svg" alt="Top 4 linguagens mais usadas" />
+</p>
 
 ## 🏆 Contribuições no último mês
 
