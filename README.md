@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Júlio César Aguiar 👋</h1>
+<h1 align="center">Olá, eu sou o Júlio César Aguiar Guedes Pereira 👋</h1>
 
 <p align="center">
   Desenvolvedor de software apaixonado por tecnologia, sempre buscando aprender coisas novas, colaborar e evoluir como desenvolvedor.
@@ -8,12 +8,6 @@
   <a href="https://github.com/JC-julio">
     <img src="https://komarev.com/ghpvc/?username=JC-julio&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="visualizações do perfil" />
   </a>
-</p>
-
-## 🥧 Linguagens mais usadas
-
-<p align="center">
-  <img src="./assets/languages-pie.svg" alt="Top 4 linguagens mais usadas" />
 </p>
 
 ## 🏆 Contribuições no último mês
