@@ -1,22 +1,26 @@
-<h1 align="center">Olá, eu sou o Júlio César Aguiar Guedes Pereira 👋</h1>
+<h1 align="center">Hi, I'm Júlio César Aguiar Guedes Pereira 👋</h1>
 
 <p align="center">
-  Desenvolvedor de software apaixonado por tecnologia, sempre buscando aprender coisas novas, colaborar e evoluir como desenvolvedor.
+  Software developer passionate about technology, continuous learning, and building useful digital solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/JC-julio">
-    <img src="https://komarev.com/ghpvc/?username=JC-julio&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="visualizações do perfil" />
+    <img src="https://komarev.com/ghpvc/?username=JC-julio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
-## 🏆 Contribuições no último mês
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JC-julio&theme=github-compact&hide_border=true" alt="gráfico de contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JC-julio&theme=github-compact&hide_border=true" alt="Contribution graph" />
 </p>
 
-## 🔥 Streak de contribuições
+---
+
+## ⚡ Streak & Most Used Languages
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=JC-julio&theme=transparent" alt="GitHub streak" />
@@ -25,7 +29,7 @@
 
 ---
 
-## 💻 Linguagens e tecnologias
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,django,linux,fastapi,postgres,mysql,git,github,vscode" />
@@ -33,11 +37,11 @@
 
 ---
 
-## 📌 Perfil no GitHub
+## 🔗 GitHub Links
 
 <p align="center">
-  <a href="https://github.com/JC-julio?tab=repositories">Repositórios</a> •
-  <a href="https://github.com/JC-julio?tab=stars">Stars</a> •
+  <a href="https://github.com/JC-julio?tab=repositories">Repositories</a> •
+  <a href="https://github.com/JC-julio?tab=stars">Stars</a>
 </p>
 
 ---
