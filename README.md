@@ -1,14 +1,17 @@
-<h1 align="center">Hi, I'm Júlio César Aguiar Guedes Pereira 👋</h1>
-
-<p align="center">
-  Software developer passionate about technology, continuous learning, and building useful digital solutions.
-</p>
-
-<p align="center">
-  <a href="https://github.com/JC-julio">
-    <img src="https://komarev.com/ghpvc/?username=JC-julio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <h1>Hi, I'm Júlio César Aguiar Guedes Pereira 👋</h1>
+      <p>
+        Software developer passionate about technology, continuous learning,
+        and building useful digital solutions.
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVrcGl5MWlpankxbTYxa2U0a28yc2ZvOHJxcm9zNG91OTh2dnB3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="220" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
