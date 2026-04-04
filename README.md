@@ -8,12 +8,6 @@
   <a href="https://github.com/JC-julio">
     <img src="https://komarev.com/ghpvc/?username=JC-julio&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="visualizações do perfil" />
   </a>
-  <a href="https://github.com/JC-julio?tab=followers">
-    <img src="https://img.shields.io/github/followers/JC-julio?label=Seguidores&style=flat" alt="seguidores" />
-  </a>
-  <a href="https://github.com/JC-julio?tab=repositories">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Ver%20projetos-181717?style=flat&logo=github" alt="repositórios" />
-  </a>
 </p>
 
 ---
@@ -28,27 +22,22 @@
 
 ---
 
-## 📌 Perfil no GitHub
+## 🏆 Contribuições no último ano
 
 <p align="center">
-  <a href="https://github.com/JC-julio?tab=repositories">Repositórios</a> •
-  <a href="https://github.com/JC-julio?tab=stars">Stars</a> •
-  <a href="https://github.com/JC-julio?tab=followers">Seguidores</a> •
-  <a href="https://github.com/JC-julio?tab=projects">Projetos</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JC-julio&theme=github-compact&hide_border=true" alt="gráfico de contribuições" />
+</p>
+
+<p align="center">
+  <strong>Incluindo repositórios públicos e, quando disponível nas suas configurações/integrações, contribuições privadas.</strong>
 </p>
 
 ---
 
-## 🏆 Contribuições
+## 🔥 Streak de contribuições
 
 <p align="center">
-  Meu histórico de contribuições, atividades e repositórios públicos pode ser visualizado diretamente no meu perfil do GitHub.
-</p>
-
-<p align="center">
-  <a href="https://github.com/JC-julio">
-    <img src="https://img.shields.io/badge/Ver%20perfil%20completo%20no%20GitHub-181717?style=for-the-badge&logo=github" alt="Ver perfil completo no GitHub" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=JC-julio&theme=transparent" alt="GitHub streak" />
 </p>
 
 ---
@@ -61,18 +50,11 @@
 
 ---
 
-## 🧠 Áreas de interesse
-
-- Desenvolvimento backend com **Python**
-- APIs e aplicações web
-- Frontend com **React** e **TypeScript**
-- Banco de dados SQL
-- Linux, Git e ferramentas de desenvolvimento
-
----
-
-## 📫 Contato
+## 📌 Perfil no GitHub
 
 <p align="center">
-  <a href="https://github.com/JC-julio">GitHub</a>
+  <a href="https://github.com/JC-julio?tab=repositories">Repositórios</a> •
+  <a href="https://github.com/JC-julio?tab=stars">Stars</a> •
 </p>
+
+---
