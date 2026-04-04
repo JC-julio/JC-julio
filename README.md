@@ -19,7 +19,7 @@
 ## 🔥 Streak de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JC-julio&theme=transparent" alt="GitHub streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=JC-julio&theme=transparent" alt="GitHub streak" />
   <img height="180em" src="https://raw.githubusercontent.com/JC-julio/JC-julio/generated/profile/top-langs.svg" alt="Top languages" />
 </p>
 
