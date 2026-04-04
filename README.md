@@ -54,21 +54,7 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,django,fastapi,postgres,mysql,redis,docker,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,django,linux,fastapi,postgres,mysql,,git,github,vscode" />
 </p>
 
 ---
-
-## 📌 Destaques
-
-- 🐍 **Python** como uma das linguagens mais presentes nos seus projetos públicos
-- 📘 **TypeScript** também aparece entre os seus repositórios em destaque
-- 📂 Perfil com repositórios públicos voltados a desenvolvimento e automação
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/JC-julio">GitHub</a>
-</p>
