@@ -17,7 +17,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -38,12 +38,21 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push generated cards
+      - name: Publish SVGs to generated branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --cached --quiet && exit 0
+
+          mkdir -p /tmp/generated-branch
+          cp -r profile /tmp/generated-branch/
+
+          git switch --orphan generated-temp
+          git rm -rf . >/dev/null 2>&1 || true
+          cp -r /tmp/generated-branch/profile .
+          touch .nojekyll
+
+          git add profile .nojekyll
           git commit -m "chore: update README cards"
-          git pull --rebase origin main
-          git push origin main
+
+          git branch -M generated-temp generated
+          git push -f origin generated
