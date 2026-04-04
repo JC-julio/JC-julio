@@ -10,29 +10,14 @@
   </a>
 </p>
 
----
-
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor focado em construir soluções web
-- 🌱 Sempre estudando e buscando evoluir tecnicamente
-- 🤝 Aberto a colaborar em projetos e aprender com outros devs
-- 🐍 Stack com bastante foco em **Python**
-- ⚛️ Também atuando com **TypeScript** e ecossistema web
-
----
+💻 Linguagens e tecnologias
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,react,django,linux,fastapi,postgres,mysql,git,github,vscode" /> </p>
 
 ## 🏆 Contribuições no último mês
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JC-julio&theme=github-compact&hide_border=true" alt="gráfico de contribuições" />
 </p>
-
-<p align="center">
-  <strong>Incluindo repositórios públicos e, quando disponível nas suas configurações/integrações, contribuições privadas.</strong>
-</p>
-
----
 
 ## 🔥 Streak de contribuições
 
