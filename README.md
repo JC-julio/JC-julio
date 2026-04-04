@@ -54,7 +54,7 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,django,linux,fastapi,postgres,mysql,,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,django,linux,fastapi,postgres,mysql,git,github,vscode" />
 </p>
 
 ---
