@@ -16,6 +16,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JC-julio&theme=github-compact&hide_border=true" alt="gráfico de contribuições" />
 </p>
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/JC-julio/JC-julio/generated/profile/stats.svg" alt="GitHub stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/JC-julio/JC-julio/generated/profile/top-langs.svg" alt="Top languages" />
+</p>
+
 ## 🔥 Streak de contribuições
 
 <p align="center">
