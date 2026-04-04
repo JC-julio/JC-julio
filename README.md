@@ -22,7 +22,7 @@
 
 ---
 
-## 🏆 Contribuições no último ano
+## 🏆 Contribuições no último mês
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JC-julio&theme=github-compact&hide_border=true" alt="gráfico de contribuições" />
