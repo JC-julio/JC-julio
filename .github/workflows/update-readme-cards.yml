@@ -5,9 +5,9 @@ concurrency:
   cancel-in-progress: true
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
@@ -43,16 +43,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          mkdir -p /tmp/generated-branch
-          cp -r profile /tmp/generated-branch/
+          mkdir -p /tmp/generated/profile
+          cp profile/*.svg /tmp/generated/profile/
 
-          git switch --orphan generated-temp
+          git reset --hard
+          git clean -fd
+
+          if git ls-remote --exit-code --heads origin generated; then
+            git checkout generated
+          else
+            git checkout --orphan generated
+          fi
+
           git rm -rf . >/dev/null 2>&1 || true
-          cp -r /tmp/generated-branch/profile .
+          mkdir -p profile
+          cp /tmp/generated/profile/*.svg profile/
           touch .nojekyll
 
           git add profile .nojekyll
-          git commit -m "chore: update README cards"
-
-          git branch -M generated-temp generated
-          git push -f origin generated
+          git commit -m "chore: update README cards" || exit 0
+          git push origin generated --force
